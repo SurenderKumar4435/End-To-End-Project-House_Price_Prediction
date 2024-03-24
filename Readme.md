@@ -1,1 +1,2 @@
-##  Hello ! this is my End-to-end project . In this project I get diabetes dataset and I predict a persion having diabeties or not
+##  Hello ! this is my End-to-end project . In this I predct the Total Sales
+# In this data I take LinearRegression Algorithm that is best for that problem .
